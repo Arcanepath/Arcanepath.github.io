@@ -3,17 +3,19 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo Template
+title: Site from Arcanepath
 subtitle: ''
 description: ''
 keywords:
-author: JiJi
+author: Administrator
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://jiji.pro/hexo-template
+url: https://arcanepath.github.io
+_config.yml
+
 permalink: :title/
 permalink_defaults:
 pretty_urls:
@@ -104,4 +106,3 @@ theme: landscape
 deploy:
   type: ''
 
-root: /hexo-template
